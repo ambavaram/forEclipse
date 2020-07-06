@@ -1,0 +1,1291 @@
+2020-05-27 17:25:12 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 17:25:12 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 17:25:12 INFO  Basepage:27 - 
+2020-05-27 17:25:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 17:25:25 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62341}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1cd8313ef552c807fb35cba993e8c423
+2020-05-27 17:25:25 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@type='radio']]
+2020-05-27 17:25:25 INFO  Basepage:90 - Radio button click Success
+2020-05-27 17:25:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 17:25:26 INFO  Basepage:120 - City search success
+2020-05-27 17:25:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 17:25:26 INFO  Basepage:135 - Ooty selection success
+2020-05-27 17:25:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 17:25:26 INFO  Basepage:244 - checkin date selected
+2020-05-27 17:25:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 17:25:26 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 17:25:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 17:25:29 INFO  Basepage:182 - checkin date selected1
+2020-05-27 17:25:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 17:25:31 INFO  Basepage:195 - checkout date selected1
+2020-05-27 17:25:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 17:25:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 17:25:33 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 17:25:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 17:25:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 17:25:35 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 17:25:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 17:25:38 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 17:25:40 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:25:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 17:25:44 INFO  Basepage:140 - the hotel name selected
+2020-05-27 17:25:47 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:25:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 17:25:47 INFO  Basepage:123 - Room option clicked
+2020-05-27 17:25:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 17:25:51 INFO  Basepage:154 - Room selected
+2020-05-27 17:25:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 17:25:53 INFO  Basepage:171 - title slected 
+2020-05-27 17:25:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@type='text']] was found
+2020-05-27 17:25:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 17:25:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 17:25:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 17:25:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 17:25:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 17:25:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 17:25:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 17:26:07 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (1cd8313ef552c807fb35cba993e8c423)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62341}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1cd8313ef552c807fb35cba993e8c423
+2020-05-27 17:37:47 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 17:37:47 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 17:37:47 INFO  Basepage:27 - 
+2020-05-27 17:37:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 17:38:00 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a12b41605ced2cc755cb8f07f2a1ff7c
+2020-05-27 17:38:00 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@type='radio']]
+2020-05-27 17:38:00 INFO  Basepage:90 - Radio button click Success
+2020-05-27 17:38:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 17:38:01 INFO  Basepage:120 - City search success
+2020-05-27 17:38:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 17:38:01 INFO  Basepage:135 - Ooty selection success
+2020-05-27 17:38:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 17:38:01 INFO  Basepage:244 - checkin date selected
+2020-05-27 17:38:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 17:38:01 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 17:38:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 17:38:04 INFO  Basepage:182 - checkin date selected1
+2020-05-27 17:38:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 17:38:06 INFO  Basepage:195 - checkout date selected1
+2020-05-27 17:38:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 17:38:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 17:38:08 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 17:38:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 17:38:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 17:38:10 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 17:38:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 17:38:13 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 17:38:15 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:38:19 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 17:38:19 INFO  Basepage:140 - the hotel name selected
+2020-05-27 17:38:22 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:38:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 17:38:22 INFO  Basepage:123 - Room option clicked
+2020-05-27 17:38:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 17:38:26 INFO  Basepage:154 - Room selected
+2020-05-27 17:38:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 17:38:28 INFO  Basepage:171 - title slected 
+2020-05-27 17:38:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@type='text']] was found
+2020-05-27 17:38:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 17:38:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 17:38:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 17:38:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 17:38:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 17:38:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 17:38:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 17:38:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-05-27 17:38:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-05-27 17:38:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-05-27 17:38:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-05-27 17:38:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-05-27 17:38:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a12b41605ced2cc755cb8f07f2a1ff7c)] -> xpath: //div[@class='width100 fl posRel']] was found
+2020-05-27 17:46:09 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 17:46:09 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 17:46:09 INFO  Basepage:27 - 
+2020-05-27 17:46:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 17:46:21 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63169}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7ca7e117b0635c32091205da50de9965
+2020-05-27 17:46:22 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@type='radio']]
+2020-05-27 17:46:22 INFO  Basepage:90 - Radio button click Success
+2020-05-27 17:46:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 17:46:22 INFO  Basepage:120 - City search success
+2020-05-27 17:46:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 17:46:23 INFO  Basepage:135 - Ooty selection success
+2020-05-27 17:46:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 17:46:23 INFO  Basepage:244 - checkin date selected
+2020-05-27 17:46:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 17:46:23 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 17:46:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 17:46:25 INFO  Basepage:182 - checkin date selected1
+2020-05-27 17:46:27 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 17:46:27 INFO  Basepage:195 - checkout date selected1
+2020-05-27 17:46:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 17:46:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 17:46:30 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 17:46:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 17:46:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 17:46:31 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 17:46:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 17:46:35 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 17:46:37 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:46:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 17:46:42 INFO  Basepage:140 - the hotel name selected
+2020-05-27 17:46:45 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:46:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 17:46:45 INFO  Basepage:123 - Room option clicked
+2020-05-27 17:46:48 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 17:46:48 INFO  Basepage:154 - Room selected
+2020-05-27 17:46:48 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 17:46:51 INFO  Basepage:171 - title slected 
+2020-05-27 17:46:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@type='text']] was found
+2020-05-27 17:46:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 17:46:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 17:46:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 17:46:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 17:46:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 17:46:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 17:46:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 17:46:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-05-27 17:46:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-05-27 17:46:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-05-27 17:46:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-05-27 17:46:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-05-27 17:46:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[@class='width100 fl posRel']] was found
+2020-05-27 17:46:57 ERROR Basepage:234 - CVV failed
+2020-05-27 17:47:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7ca7e117b0635c32091205da50de9965)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-05-27 17:47:00 INFO  Basepage:243 - Pay button clicked
+2020-05-27 17:51:12 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 17:51:12 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 17:51:12 INFO  Basepage:27 - 
+2020-05-27 17:51:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 17:51:25 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 159d40c12f6763dc71addbe821708c82
+2020-05-27 17:51:25 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@type='radio']]
+2020-05-27 17:51:25 INFO  Basepage:90 - Radio button click Success
+2020-05-27 17:51:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 17:51:26 INFO  Basepage:120 - City search success
+2020-05-27 17:51:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 17:51:26 INFO  Basepage:135 - Ooty selection success
+2020-05-27 17:51:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 17:51:26 INFO  Basepage:244 - checkin date selected
+2020-05-27 17:51:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 17:51:27 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 17:51:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 17:51:29 INFO  Basepage:182 - checkin date selected1
+2020-05-27 17:51:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 17:51:31 INFO  Basepage:195 - checkout date selected1
+2020-05-27 17:51:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 17:51:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 17:51:33 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 17:51:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 17:51:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 17:51:35 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 17:51:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 17:51:39 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 17:51:41 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:51:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 17:51:45 INFO  Basepage:140 - the hotel name selected
+2020-05-27 17:51:48 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:51:48 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 17:51:48 INFO  Basepage:123 - Room option clicked
+2020-05-27 17:51:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 17:51:52 INFO  Basepage:154 - Room selected
+2020-05-27 17:51:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 17:51:54 INFO  Basepage:171 - title slected 
+2020-05-27 17:51:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@type='text']] was found
+2020-05-27 17:51:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 17:51:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 17:51:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 17:51:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 17:51:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 17:51:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 17:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 17:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-05-27 17:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-05-27 17:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-05-27 17:51:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-05-27 17:51:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-05-27 17:52:30 ERROR Basepage:57 - Unable to find the element Proxy element for: DefaultElementLocator 'By.className: cardCVV': org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.className: cardCVV' (tried for 10 second(s) with 500 milliseconds interval)
+2020-05-27 17:52:40 ERROR Basepage:234 - CVV failed
+2020-05-27 17:52:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (159d40c12f6763dc71addbe821708c82)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-05-27 17:52:44 INFO  Basepage:243 - Pay button clicked
+2020-05-27 17:58:25 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 17:58:25 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 17:58:25 INFO  Basepage:27 - 
+2020-05-27 17:58:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 17:58:38 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63689}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d452ae6e99bc911c191e17168aad0147
+2020-05-27 17:58:39 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@type='radio']]
+2020-05-27 17:58:39 INFO  Basepage:90 - Radio button click Success
+2020-05-27 17:58:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 17:58:39 INFO  Basepage:120 - City search success
+2020-05-27 17:58:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 17:58:39 INFO  Basepage:135 - Ooty selection success
+2020-05-27 17:58:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 17:58:40 INFO  Basepage:244 - checkin date selected
+2020-05-27 17:58:40 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 17:58:40 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 17:58:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 17:58:42 INFO  Basepage:182 - checkin date selected1
+2020-05-27 17:58:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 17:58:44 INFO  Basepage:195 - checkout date selected1
+2020-05-27 17:58:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 17:58:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 17:58:46 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 17:58:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 17:58:48 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 17:58:48 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 17:58:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 17:58:51 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 17:58:53 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:58:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 17:58:57 INFO  Basepage:140 - the hotel name selected
+2020-05-27 17:59:00 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 17:59:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 17:59:01 INFO  Basepage:123 - Room option clicked
+2020-05-27 17:59:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 17:59:04 INFO  Basepage:154 - Room selected
+2020-05-27 17:59:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 17:59:06 INFO  Basepage:171 - title slected 
+2020-05-27 17:59:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@type='text']] was found
+2020-05-27 17:59:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 17:59:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 17:59:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 17:59:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 17:59:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 17:59:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 17:59:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 17:59:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-05-27 17:59:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-05-27 17:59:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-05-27 17:59:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-05-27 17:59:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-05-27 17:59:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //input[@type='password']] was found
+2020-05-27 17:59:13 INFO  Basepage:230 - CVV number accepted
+2020-05-27 17:59:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d452ae6e99bc911c191e17168aad0147)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-05-27 17:59:16 INFO  Basepage:243 - Pay button clicked
+2020-05-27 18:01:55 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:01:55 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:01:55 INFO  Basepage:27 - 
+2020-05-27 18:01:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:02:08 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63888}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d6f4869e4f97f741cd619c38fa48f08f
+2020-05-27 18:02:08 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //input[@type='radio']]
+2020-05-27 18:02:08 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:02:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:02:08 INFO  Basepage:120 - City search success
+2020-05-27 18:02:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:02:09 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:02:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:02:09 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:02:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:02:11 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:02:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:02:13 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:02:15 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:02:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:02:16 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:02:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:02:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:02:17 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:02:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 18:02:21 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 18:02:21 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:02:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:02:25 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:02:25 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:02:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:02:25 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:02:28 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:02:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 18:02:28 INFO  Basepage:123 - Room option clicked
+2020-05-27 18:02:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //a[@href='#location']] was found
+2020-05-27 18:02:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-05-27 18:02:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //a[@href='#QnA']] was found
+2020-05-27 18:02:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-05-27 18:02:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (d6f4869e4f97f741cd619c38fa48f08f)] -> xpath: //a[@href='#rooms']] was found
+2020-05-27 18:02:50 INFO  Basepage:320 - roomoptiond displayed
+2020-05-27 18:03:22 ERROR Basepage:57 - Unable to find the element Proxy element for: DefaultElementLocator 'By.xpath: //img[@src='https://cdn1.goibibo.com/t_g_ing_v8/la-blooms-ooty-washroom-1-166548896607-orijgp.jpg']': org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //img[@src='https://cdn1.goibibo.com/t_g_ing_v8/la-blooms-ooty-washroom-1-166548896607-orijgp.jpg']' (tried for 10 second(s) with 500 milliseconds interval)
+2020-05-27 18:07:52 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:07:52 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:07:52 INFO  Basepage:27 - 
+2020-05-27 18:07:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:08:05 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64180}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b95c0a9c4fe6aa82a40222c4aabfd6f5
+2020-05-27 18:08:05 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //input[@type='radio']]
+2020-05-27 18:08:06 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:08:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:08:06 INFO  Basepage:120 - City search success
+2020-05-27 18:08:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:08:06 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:08:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:08:07 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:08:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:08:09 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:08:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:08:11 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:08:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:08:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:08:13 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:08:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:08:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:08:15 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:08:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 18:08:18 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 18:08:18 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:08:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:08:23 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:08:23 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:08:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:08:23 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:08:26 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:08:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 18:08:26 INFO  Basepage:123 - Room option clicked
+2020-05-27 18:08:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //a[@href='#location']] was found
+2020-05-27 18:08:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-05-27 18:08:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //a[@href='#QnA']] was found
+2020-05-27 18:08:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-05-27 18:08:48 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b95c0a9c4fe6aa82a40222c4aabfd6f5)] -> xpath: //a[@href='#rooms']] was found
+2020-05-27 18:08:48 INFO  Basepage:320 - roomoptiond displayed
+2020-05-27 18:09:20 ERROR Basepage:57 - Unable to find the element Proxy element for: DefaultElementLocator 'By.xpath: //img[@src='https://cdn1.goibibo.com/t_g_ing_v8/hotel-sapphire-grand-ooty-img_20181012_113021-152883925097-oriwebp.webp']': org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //img[@src='https://cdn1.goibibo.com/t_g_ing_v8/hotel-sapphire-grand-ooty-img_20181012_113021-152883925097-oriwebp.webp']' (tried for 10 second(s) with 500 milliseconds interval)
+2020-05-27 18:25:32 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:25:33 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:25:33 INFO  Basepage:27 - 
+2020-05-27 18:25:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:25:46 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 54e5207f2f6b634df89ff0cb750be5b0
+2020-05-27 18:25:46 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //input[@type='radio']]
+2020-05-27 18:25:46 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:25:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:25:46 INFO  Basepage:120 - City search success
+2020-05-27 18:25:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:25:47 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:25:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:25:47 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:25:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:25:49 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:25:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:25:51 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:25:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:25:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:25:54 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:25:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:25:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:25:55 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:25:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 18:25:59 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 18:25:59 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:26:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:26:03 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:26:03 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:26:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:26:03 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:26:06 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:26:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 18:26:06 INFO  Basepage:123 - Room option clicked
+2020-05-27 18:26:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //a[@href='#location']] was found
+2020-05-27 18:26:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-05-27 18:26:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //a[@href='#QnA']] was found
+2020-05-27 18:26:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-05-27 18:26:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //a[@href='#rooms']] was found
+2020-05-27 18:26:28 INFO  Basepage:320 - roomoptiond displayed
+2020-05-27 18:26:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (54e5207f2f6b634df89ff0cb750be5b0)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-05-27 18:28:41 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:28:41 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:28:41 INFO  Basepage:27 - 
+2020-05-27 18:28:41 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:28:54 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a8f6d51ce6fa8900abdff5f4f2f4fe6e
+2020-05-27 18:28:54 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@type='radio']]
+2020-05-27 18:28:54 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:28:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:28:55 INFO  Basepage:120 - City search success
+2020-05-27 18:28:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:28:55 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:28:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:28:55 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:28:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 18:28:55 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 18:28:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:28:58 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:29:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:29:00 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:29:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:29:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:29:02 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:29:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:29:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:29:03 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:29:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 18:29:07 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 18:29:09 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:29:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:29:13 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:29:16 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:29:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 18:29:16 INFO  Basepage:123 - Room option clicked
+2020-05-27 18:29:19 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-05-27 18:29:20 INFO  Basepage:154 - Room selected
+2020-05-27 18:29:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-05-27 18:29:22 INFO  Basepage:171 - title slected 
+2020-05-27 18:29:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@type='text']] was found
+2020-05-27 18:29:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-05-27 18:29:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-05-27 18:29:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-05-27 18:29:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-05-27 18:29:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@name='cardnumber']] was found
+2020-05-27 18:29:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@placeholder='Name']] was found
+2020-05-27 18:29:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-05-27 18:29:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-05-27 18:29:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-05-27 18:29:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-05-27 18:29:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-05-27 18:29:27 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-05-27 18:29:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //input[@type='password']] was found
+2020-05-27 18:29:28 INFO  Basepage:230 - CVV number accepted
+2020-05-27 18:29:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (a8f6d51ce6fa8900abdff5f4f2f4fe6e)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-05-27 18:29:31 INFO  Basepage:243 - Pay button clicked
+2020-05-27 18:30:16 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:30:16 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:30:16 INFO  Basepage:27 - 
+2020-05-27 18:30:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:30:29 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: af36183ab4b04a811d13a9abd890bf09
+2020-05-27 18:30:29 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //input[@type='radio']]
+2020-05-27 18:30:29 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:30:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:30:29 INFO  Basepage:120 - City search success
+2020-05-27 18:30:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:30:30 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:30:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:30:30 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:30:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:30:32 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:30:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:30:34 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:30:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:30:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:30:37 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:30:38 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:30:38 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:30:38 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:30:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-05-27 18:30:42 INFO  Basepage:105 - First hotel from search selected
+2020-05-27 18:30:42 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:30:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:30:46 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:30:46 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:30:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-05-27 18:30:46 INFO  Basepage:140 - the hotel name selected
+2020-05-27 18:30:49 INFO  Basepage:88 - Browser Switch Successful
+2020-05-27 18:30:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-05-27 18:30:49 INFO  Basepage:123 - Room option clicked
+2020-05-27 18:30:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //a[@href='#location']] was found
+2020-05-27 18:31:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-05-27 18:31:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //a[@href='#QnA']] was found
+2020-05-27 18:31:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-05-27 18:31:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //a[@href='#rooms']] was found
+2020-05-27 18:31:11 INFO  Basepage:320 - roomoptiond displayed
+2020-05-27 18:31:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (af36183ab4b04a811d13a9abd890bf09)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-05-27 18:31:36 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-05-27 18:31:36 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-05-27 18:31:36 INFO  Basepage:27 - 
+2020-05-27 18:31:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-05-27 18:31:49 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 71bce93f4040024def7b48b1315a5198
+2020-05-27 18:31:50 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //input[@type='radio']]
+2020-05-27 18:31:50 INFO  Basepage:90 - Radio button click Success
+2020-05-27 18:31:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-05-27 18:31:50 INFO  Basepage:120 - City search success
+2020-05-27 18:31:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-05-27 18:31:51 INFO  Basepage:135 - Ooty selection success
+2020-05-27 18:31:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-05-27 18:31:51 INFO  Basepage:244 - checkin date selected
+2020-05-27 18:31:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-05-27 18:31:51 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-05-27 18:31:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'20')]] was found
+2020-05-27 18:31:53 INFO  Basepage:182 - checkin date selected1
+2020-05-27 18:31:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'25')]] was found
+2020-05-27 18:31:55 INFO  Basepage:195 - checkout date selected1
+2020-05-27 18:31:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-05-27 18:31:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-05-27 18:31:58 INFO  Basepage:208 - Adults count adjusted
+2020-05-27 18:31:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-05-27 18:31:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-05-27 18:31:59 INFO  Basepage:277 - Hotel search clicked
+2020-05-27 18:32:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-05-27 18:32:03 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-05-27 18:32:03 INFO  Basepage:339 - payhotel filter selected
+2020-05-27 18:32:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-05-27 18:32:05 INFO  Basepage:352 - PriceRange filter is slected
+2020-05-27 18:32:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-05-27 18:32:07 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-05-27 18:32:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (71bce93f4040024def7b48b1315a5198)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-05-27 18:32:10 INFO  Basepage:380 - Verify Filter is success
+2020-06-02 09:13:17 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 09:13:17 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 09:13:17 INFO  Basepage:27 - 
+2020-06-02 09:13:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 09:13:33 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4e6dd55823e32afc49fe910f22dc7001
+2020-06-02 09:13:33 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@type='radio']]
+2020-06-02 09:13:33 INFO  Basepage:90 - Radio button click Success
+2020-06-02 09:13:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 09:13:34 INFO  Basepage:120 - City search success
+2020-06-02 09:13:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 09:13:35 INFO  Basepage:135 - Ooty selection success
+2020-06-02 09:13:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 09:13:35 INFO  Basepage:244 - checkin date selected
+2020-06-02 09:13:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-02 09:13:35 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-02 09:13:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 09:13:37 INFO  Basepage:182 - checkin date selected1
+2020-06-02 09:13:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 09:13:40 INFO  Basepage:195 - checkout date selected1
+2020-06-02 09:13:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 09:13:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 09:13:42 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 09:13:43 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 09:13:43 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 09:13:43 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 09:13:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-02 09:13:47 INFO  Basepage:105 - First hotel from search selected
+2020-06-02 09:13:50 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 09:13:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 09:13:54 INFO  Basepage:140 - the hotel name selected
+2020-06-02 09:13:57 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 09:13:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-02 09:13:57 INFO  Basepage:123 - Room option clicked
+2020-06-02 09:14:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-06-02 09:14:00 INFO  Basepage:154 - Room selected
+2020-06-02 09:14:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-06-02 09:14:03 INFO  Basepage:171 - title slected 
+2020-06-02 09:14:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@type='text']] was found
+2020-06-02 09:14:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-06-02 09:14:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-06-02 09:14:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-06-02 09:14:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-06-02 09:14:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@name='cardnumber']] was found
+2020-06-02 09:14:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@placeholder='Name']] was found
+2020-06-02 09:14:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-06-02 09:14:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-06-02 09:14:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-06-02 09:14:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-06-02 09:14:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-06-02 09:14:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-06-02 09:14:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //input[@type='password']] was found
+2020-06-02 09:14:09 INFO  Basepage:230 - CVV number accepted
+2020-06-02 09:14:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4e6dd55823e32afc49fe910f22dc7001)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-06-02 09:14:13 INFO  Basepage:243 - Pay button clicked
+2020-06-02 09:14:59 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 09:14:59 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 09:14:59 INFO  Basepage:27 - 
+2020-06-02 09:14:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 09:15:13 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 32fb891b43aa74ff7eea072a279c3191
+2020-06-02 09:15:13 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //input[@type='radio']]
+2020-06-02 09:15:13 INFO  Basepage:90 - Radio button click Success
+2020-06-02 09:15:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 09:15:13 INFO  Basepage:120 - City search success
+2020-06-02 09:15:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 09:15:14 INFO  Basepage:135 - Ooty selection success
+2020-06-02 09:15:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 09:15:14 INFO  Basepage:244 - checkin date selected
+2020-06-02 09:15:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 09:15:16 INFO  Basepage:182 - checkin date selected1
+2020-06-02 09:15:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 09:15:18 INFO  Basepage:195 - checkout date selected1
+2020-06-02 09:15:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 09:15:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 09:15:21 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 09:15:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 09:15:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 09:15:22 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 09:15:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-02 09:15:26 INFO  Basepage:105 - First hotel from search selected
+2020-06-02 09:15:26 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 09:15:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 09:15:30 INFO  Basepage:140 - the hotel name selected
+2020-06-02 09:15:30 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 09:15:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 09:15:30 INFO  Basepage:140 - the hotel name selected
+2020-06-02 09:15:33 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 09:15:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-02 09:15:34 INFO  Basepage:123 - Room option clicked
+2020-06-02 09:15:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //a[@href='#location']] was found
+2020-06-02 09:15:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-06-02 09:15:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //a[@href='#QnA']] was found
+2020-06-02 09:15:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-06-02 09:16:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //a[@href='#rooms']] was found
+2020-06-02 09:16:00 INFO  Basepage:320 - roomoptiond displayed
+2020-06-02 09:16:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (32fb891b43aa74ff7eea072a279c3191)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-06-02 09:16:29 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 09:16:29 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 09:16:29 INFO  Basepage:27 - 
+2020-06-02 09:16:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 09:16:43 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61522}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aeb8e9238b6c62cf02fb298034c7998e
+2020-06-02 09:16:43 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //input[@type='radio']]
+2020-06-02 09:16:43 INFO  Basepage:90 - Radio button click Success
+2020-06-02 09:16:43 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 09:16:43 INFO  Basepage:120 - City search success
+2020-06-02 09:16:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 09:16:44 INFO  Basepage:135 - Ooty selection success
+2020-06-02 09:16:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 09:16:44 INFO  Basepage:244 - checkin date selected
+2020-06-02 09:16:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-02 09:16:44 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-02 09:16:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 09:16:47 INFO  Basepage:182 - checkin date selected1
+2020-06-02 09:16:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 09:16:49 INFO  Basepage:195 - checkout date selected1
+2020-06-02 09:16:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 09:16:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 09:16:51 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 09:16:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 09:16:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 09:16:53 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 09:16:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-06-02 09:16:56 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-06-02 09:16:56 INFO  Basepage:339 - payhotel filter selected
+2020-06-02 09:16:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-06-02 09:16:59 INFO  Basepage:352 - PriceRange filter is slected
+2020-06-02 09:17:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-06-02 09:17:01 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-06-02 09:17:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (aeb8e9238b6c62cf02fb298034c7998e)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-06-02 09:17:04 INFO  Basepage:380 - Verify Filter is success
+2020-06-02 17:12:37 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 17:12:37 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 17:12:37 INFO  Basepage:27 - 
+2020-06-02 17:12:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 17:12:49 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62734}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ae10863b400d92be33b624e06b858334
+2020-06-02 17:12:49 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@type='radio']]
+2020-06-02 17:12:49 INFO  Basepage:90 - Radio button click Success
+2020-06-02 17:12:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 17:12:49 INFO  Basepage:120 - City search success
+2020-06-02 17:12:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 17:12:50 INFO  Basepage:135 - Ooty selection success
+2020-06-02 17:12:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 17:12:50 INFO  Basepage:244 - checkin date selected
+2020-06-02 17:12:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-02 17:12:50 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-02 17:12:52 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 17:12:53 INFO  Basepage:182 - checkin date selected1
+2020-06-02 17:12:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 17:12:55 INFO  Basepage:195 - checkout date selected1
+2020-06-02 17:12:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 17:12:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 17:12:57 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 17:12:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 17:12:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 17:12:58 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 17:13:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-02 17:13:02 INFO  Basepage:105 - First hotel from search selected
+2020-06-02 17:13:04 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 17:13:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 17:13:09 INFO  Basepage:140 - the hotel name selected
+2020-06-02 17:13:12 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 17:13:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-02 17:13:12 INFO  Basepage:123 - Room option clicked
+2020-06-02 17:13:15 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-06-02 17:13:15 INFO  Basepage:154 - Room selected
+2020-06-02 17:13:15 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-06-02 17:13:18 INFO  Basepage:171 - title slected 
+2020-06-02 17:13:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@type='text']] was found
+2020-06-02 17:13:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-06-02 17:13:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-06-02 17:13:19 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-06-02 17:13:19 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-06-02 17:13:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@name='cardnumber']] was found
+2020-06-02 17:13:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@placeholder='Name']] was found
+2020-06-02 17:13:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-06-02 17:13:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-06-02 17:13:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-06-02 17:13:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-06-02 17:13:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-06-02 17:13:23 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-06-02 17:13:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //input[@type='password']] was found
+2020-06-02 17:13:24 INFO  Basepage:230 - CVV number accepted
+2020-06-02 17:13:27 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (ae10863b400d92be33b624e06b858334)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-06-02 17:13:27 INFO  Basepage:243 - Pay button clicked
+2020-06-02 17:14:12 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 17:14:12 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 17:14:12 INFO  Basepage:27 - 
+2020-06-02 17:14:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 17:14:24 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62825}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9c57c0b9a192c849eac01d161fd9ffab
+2020-06-02 17:14:24 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //input[@type='radio']]
+2020-06-02 17:14:25 INFO  Basepage:90 - Radio button click Success
+2020-06-02 17:14:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 17:14:25 INFO  Basepage:120 - City search success
+2020-06-02 17:14:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 17:14:25 INFO  Basepage:135 - Ooty selection success
+2020-06-02 17:14:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 17:14:26 INFO  Basepage:244 - checkin date selected
+2020-06-02 17:14:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 17:14:28 INFO  Basepage:182 - checkin date selected1
+2020-06-02 17:14:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 17:14:30 INFO  Basepage:195 - checkout date selected1
+2020-06-02 17:14:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 17:14:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 17:14:32 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 17:14:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 17:14:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 17:14:34 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 17:14:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-02 17:14:37 INFO  Basepage:105 - First hotel from search selected
+2020-06-02 17:14:37 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 17:14:41 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 17:14:41 INFO  Basepage:140 - the hotel name selected
+2020-06-02 17:14:41 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 17:14:41 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-02 17:14:41 INFO  Basepage:140 - the hotel name selected
+2020-06-02 17:14:44 INFO  Basepage:88 - Browser Switch Successful
+2020-06-02 17:14:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-02 17:14:45 INFO  Basepage:123 - Room option clicked
+2020-06-02 17:14:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //a[@href='#location']] was found
+2020-06-02 17:14:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-06-02 17:15:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //a[@href='#QnA']] was found
+2020-06-02 17:15:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-06-02 17:15:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //a[@href='#rooms']] was found
+2020-06-02 17:15:06 INFO  Basepage:320 - roomoptiond displayed
+2020-06-02 17:15:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (9c57c0b9a192c849eac01d161fd9ffab)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-06-02 17:15:32 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-02 17:15:32 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-02 17:15:32 INFO  Basepage:27 - 
+2020-06-02 17:15:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-02 17:15:45 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 55cddf2063d23a2070ac869ae0b0a85d
+2020-06-02 17:15:45 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //input[@type='radio']]
+2020-06-02 17:15:45 INFO  Basepage:90 - Radio button click Success
+2020-06-02 17:15:45 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-02 17:15:46 INFO  Basepage:120 - City search success
+2020-06-02 17:15:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-02 17:15:46 INFO  Basepage:135 - Ooty selection success
+2020-06-02 17:15:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-02 17:15:46 INFO  Basepage:244 - checkin date selected
+2020-06-02 17:15:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-02 17:15:47 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-02 17:15:49 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-02 17:15:49 INFO  Basepage:182 - checkin date selected1
+2020-06-02 17:15:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-02 17:15:51 INFO  Basepage:195 - checkout date selected1
+2020-06-02 17:15:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-02 17:15:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-02 17:15:53 INFO  Basepage:208 - Adults count adjusted
+2020-06-02 17:15:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-02 17:15:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-02 17:15:55 INFO  Basepage:277 - Hotel search clicked
+2020-06-02 17:15:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-06-02 17:15:58 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-06-02 17:15:58 INFO  Basepage:339 - payhotel filter selected
+2020-06-02 17:16:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-06-02 17:16:01 INFO  Basepage:352 - PriceRange filter is slected
+2020-06-02 17:16:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-06-02 17:16:03 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-06-02 17:16:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (55cddf2063d23a2070ac869ae0b0a85d)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-06-02 17:16:06 INFO  Basepage:380 - Verify Filter is success
+2020-06-05 07:48:39 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-05 07:48:39 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-05 07:48:39 INFO  Basepage:27 - 
+2020-06-05 07:48:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-05 07:48:52 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 839c2ac14a1a97df619763cd70137a3d
+2020-06-05 07:48:52 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@type='radio']]
+2020-06-05 07:48:52 INFO  Basepage:90 - Radio button click Success
+2020-06-05 07:48:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-05 07:48:53 INFO  Basepage:120 - City search success
+2020-06-05 07:48:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-05 07:48:53 INFO  Basepage:135 - Ooty selection success
+2020-06-05 07:48:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-05 07:48:54 INFO  Basepage:244 - checkin date selected
+2020-06-05 07:48:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-05 07:48:54 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-05 07:48:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-05 07:48:56 INFO  Basepage:182 - checkin date selected1
+2020-06-05 07:48:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-05 07:48:58 INFO  Basepage:195 - checkout date selected1
+2020-06-05 07:49:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-05 07:49:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-05 07:49:01 INFO  Basepage:208 - Adults count adjusted
+2020-06-05 07:49:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-05 07:49:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-05 07:49:02 INFO  Basepage:277 - Hotel search clicked
+2020-06-05 07:49:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-05 07:49:06 INFO  Basepage:105 - First hotel from search selected
+2020-06-05 07:49:08 INFO  Basepage:88 - Browser Switch Successful
+2020-06-05 07:49:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-05 07:49:12 INFO  Basepage:140 - the hotel name selected
+2020-06-05 07:49:15 INFO  Basepage:88 - Browser Switch Successful
+2020-06-05 07:49:15 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-05 07:49:15 INFO  Basepage:123 - Room option clicked
+2020-06-05 07:49:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-06-05 07:49:19 INFO  Basepage:154 - Room selected
+2020-06-05 07:49:19 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-06-05 07:49:21 INFO  Basepage:171 - title slected 
+2020-06-05 07:49:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@type='text']] was found
+2020-06-05 07:49:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-06-05 07:49:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-06-05 07:49:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-06-05 07:49:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-06-05 07:49:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@name='cardnumber']] was found
+2020-06-05 07:49:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@placeholder='Name']] was found
+2020-06-05 07:49:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-06-05 07:49:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-06-05 07:49:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-06-05 07:49:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-06-05 07:49:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-06-05 07:49:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-06-05 07:49:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //input[@type='password']] was found
+2020-06-05 07:49:28 INFO  Basepage:230 - CVV number accepted
+2020-06-05 07:49:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (839c2ac14a1a97df619763cd70137a3d)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-06-05 07:49:31 INFO  Basepage:243 - Pay button clicked
+2020-06-05 07:50:17 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-05 07:50:17 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-05 07:50:17 INFO  Basepage:27 - 
+2020-06-05 07:50:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-05 07:50:30 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51703}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4f3d38204dd9034399b5aecd5a161008
+2020-06-05 07:50:30 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //input[@type='radio']]
+2020-06-05 07:50:30 INFO  Basepage:90 - Radio button click Success
+2020-06-05 07:50:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-05 07:50:30 INFO  Basepage:120 - City search success
+2020-06-05 07:50:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-05 07:50:31 INFO  Basepage:135 - Ooty selection success
+2020-06-05 07:50:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-05 07:50:31 INFO  Basepage:244 - checkin date selected
+2020-06-05 07:50:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-05 07:50:33 INFO  Basepage:182 - checkin date selected1
+2020-06-05 07:50:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-05 07:50:35 INFO  Basepage:195 - checkout date selected1
+2020-06-05 07:50:38 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-05 07:50:38 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-05 07:50:38 INFO  Basepage:208 - Adults count adjusted
+2020-06-05 07:50:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-05 07:50:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-05 07:50:39 INFO  Basepage:277 - Hotel search clicked
+2020-06-05 07:50:40 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-05 07:50:43 INFO  Basepage:105 - First hotel from search selected
+2020-06-05 07:50:43 INFO  Basepage:88 - Browser Switch Successful
+2020-06-05 07:50:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-05 07:50:47 INFO  Basepage:140 - the hotel name selected
+2020-06-05 07:50:47 INFO  Basepage:88 - Browser Switch Successful
+2020-06-05 07:50:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-05 07:50:47 INFO  Basepage:140 - the hotel name selected
+2020-06-05 07:50:50 INFO  Basepage:88 - Browser Switch Successful
+2020-06-05 07:50:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-05 07:50:50 INFO  Basepage:123 - Room option clicked
+2020-06-05 07:50:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //a[@href='#location']] was found
+2020-06-05 07:51:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-06-05 07:51:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //a[@href='#QnA']] was found
+2020-06-05 07:51:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-06-05 07:51:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //a[@href='#rooms']] was found
+2020-06-05 07:51:12 INFO  Basepage:320 - roomoptiond displayed
+2020-06-05 07:51:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (4f3d38204dd9034399b5aecd5a161008)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-06-05 07:51:37 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-05 07:51:37 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-05 07:51:37 INFO  Basepage:27 - 
+2020-06-05 07:51:37 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-05 07:51:50 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51794}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dee9f195031e8119923da46d477a14df
+2020-06-05 07:51:50 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //input[@type='radio']]
+2020-06-05 07:51:50 INFO  Basepage:90 - Radio button click Success
+2020-06-05 07:51:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-05 07:51:51 INFO  Basepage:120 - City search success
+2020-06-05 07:51:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-05 07:51:51 INFO  Basepage:135 - Ooty selection success
+2020-06-05 07:51:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-05 07:51:51 INFO  Basepage:244 - checkin date selected
+2020-06-05 07:51:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-05 07:51:52 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-05 07:51:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-05 07:51:54 INFO  Basepage:182 - checkin date selected1
+2020-06-05 07:51:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-05 07:51:56 INFO  Basepage:195 - checkout date selected1
+2020-06-05 07:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-05 07:51:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-05 07:51:58 INFO  Basepage:208 - Adults count adjusted
+2020-06-05 07:51:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-05 07:52:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-05 07:52:00 INFO  Basepage:277 - Hotel search clicked
+2020-06-05 07:52:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-06-05 07:52:03 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-06-05 07:52:03 INFO  Basepage:339 - payhotel filter selected
+2020-06-05 07:52:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-06-05 07:52:06 INFO  Basepage:352 - PriceRange filter is slected
+2020-06-05 07:52:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-06-05 07:52:08 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-06-05 07:52:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (dee9f195031e8119923da46d477a14df)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-06-05 07:52:11 INFO  Basepage:380 - Verify Filter is success
+2020-06-16 18:02:07 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 18:02:07 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 18:02:07 INFO  Basepage:27 - 
+2020-06-16 18:02:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 18:02:20 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59218}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 439ce2cff254b07aa78f3c59cacebc9f
+2020-06-16 18:02:20 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@type='radio']]
+2020-06-16 18:02:20 INFO  Basepage:90 - Radio button click Success
+2020-06-16 18:02:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 18:02:21 INFO  Basepage:120 - City search success
+2020-06-16 18:02:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 18:02:21 INFO  Basepage:135 - Ooty selection success
+2020-06-16 18:02:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 18:02:22 INFO  Basepage:244 - checkin date selected
+2020-06-16 18:02:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-16 18:02:22 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-16 18:02:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 18:02:24 INFO  Basepage:182 - checkin date selected1
+2020-06-16 18:02:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 18:02:26 INFO  Basepage:195 - checkout date selected1
+2020-06-16 18:02:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 18:02:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 18:02:29 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 18:02:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 18:02:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 18:02:30 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 18:02:32 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-16 18:02:34 INFO  Basepage:105 - First hotel from search selected
+2020-06-16 18:02:36 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 18:02:40 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 18:02:40 INFO  Basepage:140 - the hotel name selected
+2020-06-16 18:02:43 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 18:02:43 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-16 18:02:44 INFO  Basepage:123 - Room option clicked
+2020-06-16 18:02:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-06-16 18:02:47 INFO  Basepage:154 - Room selected
+2020-06-16 18:02:47 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-06-16 18:02:50 INFO  Basepage:171 - title slected 
+2020-06-16 18:02:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@type='text']] was found
+2020-06-16 18:02:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-06-16 18:02:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-06-16 18:02:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-06-16 18:02:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-06-16 18:02:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@name='cardnumber']] was found
+2020-06-16 18:02:53 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@placeholder='Name']] was found
+2020-06-16 18:02:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-06-16 18:02:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-06-16 18:02:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-06-16 18:02:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-06-16 18:02:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-06-16 18:02:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-06-16 18:02:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //input[@type='password']] was found
+2020-06-16 18:02:57 INFO  Basepage:230 - CVV number accepted
+2020-06-16 18:03:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (439ce2cff254b07aa78f3c59cacebc9f)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-06-16 18:03:00 INFO  Basepage:243 - Pay button clicked
+2020-06-16 18:03:46 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 18:03:46 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 18:03:46 INFO  Basepage:27 - 
+2020-06-16 18:03:46 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 18:03:59 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59317}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7e0d18b031a7891e94d4934f4e5c61e
+2020-06-16 18:03:59 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //input[@type='radio']]
+2020-06-16 18:03:59 INFO  Basepage:90 - Radio button click Success
+2020-06-16 18:03:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 18:04:00 INFO  Basepage:120 - City search success
+2020-06-16 18:04:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 18:04:00 INFO  Basepage:135 - Ooty selection success
+2020-06-16 18:04:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 18:04:00 INFO  Basepage:244 - checkin date selected
+2020-06-16 18:04:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 18:04:03 INFO  Basepage:182 - checkin date selected1
+2020-06-16 18:04:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 18:04:05 INFO  Basepage:195 - checkout date selected1
+2020-06-16 18:04:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 18:04:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 18:04:07 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 18:04:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 18:04:09 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 18:04:09 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 18:04:11 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-16 18:04:13 INFO  Basepage:105 - First hotel from search selected
+2020-06-16 18:04:13 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 18:04:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 18:04:17 INFO  Basepage:140 - the hotel name selected
+2020-06-16 18:04:17 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 18:04:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 18:04:17 INFO  Basepage:140 - the hotel name selected
+2020-06-16 18:04:20 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 18:04:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-16 18:04:20 INFO  Basepage:123 - Room option clicked
+2020-06-16 18:04:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //a[@href='#location']] was found
+2020-06-16 18:04:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-06-16 18:04:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //a[@href='#QnA']] was found
+2020-06-16 18:04:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-06-16 18:04:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //a[@href='#rooms']] was found
+2020-06-16 18:04:42 INFO  Basepage:320 - roomoptiond displayed
+2020-06-16 18:04:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b7e0d18b031a7891e94d4934f4e5c61e)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-06-16 18:05:08 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 18:05:08 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 18:05:08 INFO  Basepage:27 - 
+2020-06-16 18:05:08 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 18:05:20 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7663c52cfddc1a0be8cc82f784e1357f
+2020-06-16 18:05:20 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //input[@type='radio']]
+2020-06-16 18:05:20 INFO  Basepage:90 - Radio button click Success
+2020-06-16 18:05:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 18:05:21 INFO  Basepage:120 - City search success
+2020-06-16 18:05:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 18:05:21 INFO  Basepage:135 - Ooty selection success
+2020-06-16 18:05:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 18:05:22 INFO  Basepage:244 - checkin date selected
+2020-06-16 18:05:22 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-16 18:05:22 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-16 18:05:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 18:05:24 INFO  Basepage:182 - checkin date selected1
+2020-06-16 18:05:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 18:05:26 INFO  Basepage:195 - checkout date selected1
+2020-06-16 18:05:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 18:05:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 18:05:29 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 18:05:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 18:05:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 18:05:30 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 18:05:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-06-16 18:05:34 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-06-16 18:05:34 INFO  Basepage:339 - payhotel filter selected
+2020-06-16 18:05:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-06-16 18:05:36 INFO  Basepage:352 - PriceRange filter is slected
+2020-06-16 18:05:38 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-06-16 18:05:38 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-06-16 18:05:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (7663c52cfddc1a0be8cc82f784e1357f)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-06-16 18:05:42 INFO  Basepage:380 - Verify Filter is success
+2020-06-16 22:29:40 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 22:29:40 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 22:29:40 INFO  Basepage:27 - 
+2020-06-16 22:29:40 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 22:29:54 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 00ce7727dce8328df66c64117bfed86b
+2020-06-16 22:29:54 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@type='radio']]
+2020-06-16 22:29:54 INFO  Basepage:90 - Radio button click Success
+2020-06-16 22:29:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 22:29:55 INFO  Basepage:120 - City search success
+2020-06-16 22:29:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 22:29:55 INFO  Basepage:135 - Ooty selection success
+2020-06-16 22:29:55 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 22:29:55 INFO  Basepage:244 - checkin date selected
+2020-06-16 22:29:56 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-16 22:29:56 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-16 22:29:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 22:29:58 INFO  Basepage:182 - checkin date selected1
+2020-06-16 22:30:00 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 22:30:00 INFO  Basepage:195 - checkout date selected1
+2020-06-16 22:30:02 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 22:30:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 22:30:03 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 22:30:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 22:30:04 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 22:30:04 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 22:30:06 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-16 22:30:08 INFO  Basepage:105 - First hotel from search selected
+2020-06-16 22:30:10 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 22:30:14 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 22:30:14 INFO  Basepage:140 - the hotel name selected
+2020-06-16 22:30:17 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 22:30:17 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-16 22:30:18 INFO  Basepage:123 - Room option clicked
+2020-06-16 22:30:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //button[@class='RoomFlavorstyles__ButtonWrapper-sc-1btnl3r-18 dKUmyJ']] was found
+2020-06-16 22:30:21 INFO  Basepage:154 - Room selected
+2020-06-16 22:30:21 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //select[@class='PersonalProfile__NameEnterSelect-sc-1r9ak8b-9 bOfOHT']] was found
+2020-06-16 22:30:24 INFO  Basepage:171 - title slected 
+2020-06-16 22:30:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@type='text']] was found
+2020-06-16 22:30:24 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-06-16 22:30:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-06-16 22:30:25 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-06-16 22:30:26 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //button[@class='GuestDetailBlock__CustomButton-sc-6dnm3n-12 fKiqlm']] was found
+2020-06-16 22:30:27 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@name='cardnumber']] was found
+2020-06-16 22:30:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@placeholder='Name']] was found
+2020-06-16 22:30:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@placeholder='MM / YY']] was found
+2020-06-16 22:30:28 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@class='normalsection inputMedium cr_crd_add']] was found
+2020-06-16 22:30:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@class='normalsection inputMedium cr_crd_zip']] was found
+2020-06-16 22:30:29 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@class='normalsection inputMedium cr_crd_city']] was found
+2020-06-16 22:30:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@class='normalsection inputMedium cr_crd_state']] was found
+2020-06-16 22:30:30 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@class='form-control inputMedium cr_crd_phone']] was found
+2020-06-16 22:30:31 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //input[@type='password']] was found
+2020-06-16 22:30:32 INFO  Basepage:230 - CVV number accepted
+2020-06-16 22:30:35 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (00ce7727dce8328df66c64117bfed86b)] -> xpath: //div[@class='col-md-8 col-sm-8 col-xs-8']] was found
+2020-06-16 22:30:35 INFO  Basepage:243 - Pay button clicked
+2020-06-16 22:31:20 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 22:31:20 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 22:31:20 INFO  Basepage:27 - 
+2020-06-16 22:31:20 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 22:31:33 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b2cab27cfc3b3b90e7911a3abf86aec9
+2020-06-16 22:31:33 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //input[@type='radio']]
+2020-06-16 22:31:33 INFO  Basepage:90 - Radio button click Success
+2020-06-16 22:31:33 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 22:31:34 INFO  Basepage:120 - City search success
+2020-06-16 22:31:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 22:31:34 INFO  Basepage:135 - Ooty selection success
+2020-06-16 22:31:34 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 22:31:34 INFO  Basepage:244 - checkin date selected
+2020-06-16 22:31:36 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 22:31:37 INFO  Basepage:182 - checkin date selected1
+2020-06-16 22:31:39 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 22:31:39 INFO  Basepage:195 - checkout date selected1
+2020-06-16 22:31:41 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 22:31:41 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 22:31:41 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 22:31:42 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 22:31:43 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 22:31:43 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 22:31:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //div[@class='HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 eXWmAQ']] was found
+2020-06-16 22:31:46 INFO  Basepage:105 - First hotel from search selected
+2020-06-16 22:31:46 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 22:31:50 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 22:31:51 INFO  Basepage:140 - the hotel name selected
+2020-06-16 22:31:51 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 22:31:51 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //span[@class='HotelName__HotelNameText-sc-1bfbuq5-1 eqwGIS']] was found
+2020-06-16 22:31:51 INFO  Basepage:140 - the hotel name selected
+2020-06-16 22:31:54 INFO  Basepage:88 - Browser Switch Successful
+2020-06-16 22:31:54 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //button[@class='Button-aqcosj-4 BookingWidgetstyles__ViewRoomOptionsButton-sc-1tsb1-12 dtPKBr']] was found
+2020-06-16 22:31:54 INFO  Basepage:123 - Room option clicked
+2020-06-16 22:31:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //a[@href='#location']] was found
+2020-06-16 22:32:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //a[@ href='#guest-reviews']] was found
+2020-06-16 22:32:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //a[@href='#QnA']] was found
+2020-06-16 22:32:12 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-06-16 22:32:16 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //a[@href='#rooms']] was found
+2020-06-16 22:32:16 INFO  Basepage:320 - roomoptiond displayed
+2020-06-16 22:32:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (b2cab27cfc3b3b90e7911a3abf86aec9)] -> xpath: //div[@class='Layouts__Column-sc-1yzlivq-1 Roomstyles__Column-sc-1ivl7fs-0 Roomstyles__RoomImageWrapper-sc-1ivl7fs-5 blVabg']] was found
+2020-06-16 22:32:44 ERROR Basepage:57 - Unable to find the element null: java.lang.NullPointerException
+2020-06-16 22:32:44 ERROR Basepage:73 - Mouse over failed java.lang.IllegalArgumentException: Must provide a location for a move action.
+2020-06-16 22:32:44 INFO  Basepage:27 - 
+2020-06-16 22:32:44 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'Hotels')]] was found
+2020-06-16 22:32:57 ERROR Basepage:57 - Unable to find the element [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //input[@type='radio']]: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //input[@type='radio']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'UMALUCKY', ip: '192.168.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\UMASAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65371}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8992f7feaba190f04d8a1693814c6e3b
+2020-06-16 22:32:57 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //input[@type='radio']]
+2020-06-16 22:32:57 INFO  Basepage:90 - Radio button click Success
+2020-06-16 22:32:57 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //input[@aria-autocomplete='list']] was found
+2020-06-16 22:32:58 INFO  Basepage:120 - City search success
+2020-06-16 22:32:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'Ooty')]] was found
+2020-06-16 22:32:58 INFO  Basepage:135 - Ooty selection success
+2020-06-16 22:32:58 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //div[contains(text(),'Check-in')]] was found
+2020-06-16 22:32:59 INFO  Basepage:244 - checkin date selected
+2020-06-16 22:32:59 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //div[@class='dcalendarstyles__MonthChangeRightArrowDiv-r2jz2t-16 eVCvYn']] was found
+2020-06-16 22:32:59 INFO  Basepage:168 - Checkin calender Arrow clicked
+2020-06-16 22:33:01 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'20')]] was found
+2020-06-16 22:33:01 INFO  Basepage:182 - checkin date selected1
+2020-06-16 22:33:03 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'25')]] was found
+2020-06-16 22:33:03 INFO  Basepage:195 - checkout date selected1
+2020-06-16 22:33:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'Rooms')]] was found
+2020-06-16 22:33:05 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //div[@class='Layouts__Row-sc-1yzlivq-0 PaxWidgetstyles__ContentWrapperDiv-gv3w6r-1 ixtNEy']//div[2]//span[contains(text(),'-')]] was found
+2020-06-16 22:33:06 INFO  Basepage:208 - Adults count adjusted
+2020-06-16 22:33:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //button[contains(text(),'Done')]] was found
+2020-06-16 22:33:07 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //button[contains(text(),'Search Hotels')]] was found
+2020-06-16 22:33:07 INFO  Basepage:277 - Hotel search clicked
+2020-06-16 22:33:10 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'Pay At Hotel')]] was found
+2020-06-16 22:33:10 INFO  Basepage:68 - Mouse overed on[[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'Pay At Hotel')]]
+2020-06-16 22:33:11 INFO  Basepage:339 - payhotel filter selected
+2020-06-16 22:33:13 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //span[contains(text(),'6000')]] was found
+2020-06-16 22:33:13 INFO  Basepage:352 - PriceRange filter is slected
+2020-06-16 22:33:15 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //div[@class='Filtersstyles__AverageReviewWrapper-bkjigy-3 ilybwq']] was found
+2020-06-16 22:33:15 INFO  Basepage:366 - Customer Ratings Filter is selected
+2020-06-16 22:33:18 INFO  Basepage:51 - [[ChromeDriver: chrome on XP (8992f7feaba190f04d8a1693814c6e3b)] -> xpath: //div[@class='Filtersstyles__AppliedFiltersWrapperDiv-bkjigy-10 jfzibo']] was found
+2020-06-16 22:33:19 INFO  Basepage:380 - Verify Filter is success

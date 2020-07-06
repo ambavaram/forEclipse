@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-16T22:29:23 EDT" name="goibibo" finished-at="2020-06-16T22:33:22 EDT" duration-ms="239184">
+    <groups>
+    </groups>
+    <test started-at="2020-06-16T22:29:23 EDT" name="regression" finished-at="2020-06-16T22:33:22 EDT" duration-ms="239184">
+      <class name="com.ibibo.testscripts.hotelsscripts">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:29:23 EDT" name="launchApp" finished-at="2020-06-16T22:29:39 EDT" duration-ms="16228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="Tc_01_searchhotel()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:29:39 EDT" name="Tc_01_searchhotel" finished-at="2020-06-16T22:31:05 EDT" duration-ms="85369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_01_searchhotel -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:31:05 EDT" name="closeApp" finished-at="2020-06-16T22:31:06 EDT" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:31:06 EDT" name="launchApp" finished-at="2020-06-16T22:31:20 EDT" duration-ms="14100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="Tc_03_searchhotel()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:31:20 EDT" name="Tc_03_searchhotel" finished-at="2020-06-16T22:32:27 EDT" duration-ms="66771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_03_searchhotel -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:32:27 EDT" name="closeApp" finished-at="2020-06-16T22:32:28 EDT" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:32:28 EDT" name="launchApp" finished-at="2020-06-16T22:32:44 EDT" duration-ms="15748" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="Tc_04_searchhotel()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:32:44 EDT" name="Tc_04_searchhotel" finished-at="2020-06-16T22:33:22 EDT" duration-ms="37860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc_04_searchhotel -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.ibibo.testscripts.hotelsscripts@1d082e88]" started-at="2020-06-16T22:33:22 EDT" name="closeApp" finished-at="2020-06-16T22:33:22 EDT" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.ibibo.testscripts.hotelsscripts -->
+    </test> <!-- regression -->
+  </suite> <!-- goibibo -->
+</testng-results>

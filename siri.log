@@ -1,0 +1,27 @@
+2020-05-28 17:19:35,219 INFO  [Log4JExample] New driver instantiated 
+2020-05-28 17:19:35,287 INFO  [Log4JExample] Implicit wait applied on the driver for 10 seconds 
+2020-05-28 17:19:38,332 INFO  [Log4JExample] Web application launched 
+2020-05-28 17:19:38,598 INFO  [Log4JExample] Click action performed on My Account link 
+2020-05-28 17:19:38,631 INFO  [Log4JExample] Username entered in the Username text box 
+2020-05-28 17:19:38,663 INFO  [Log4JExample] Password entered in the Password text box 
+2020-05-28 17:19:43,906 INFO  [Log4JExample] Click action performed on Submit button 
+2020-05-28 17:19:43,996 INFO  [Log4JExample] Found round trip radio button 
+2020-05-28 17:19:49,395 INFO  [Log4JExample] Browser closed 
+2020-05-28 18:12:18,387 INFO  [Log4JExample2] New driver instantiated 
+2020-05-28 18:12:18,403 INFO  [Log4JExample2] Implicit wait applied on the driver for 10 seconds 
+2020-05-28 18:12:21,070 INFO  [Log4JExample2] Web application launched 
+2020-05-28 18:12:22,516 INFO  [Log4JExample2] Click action performed on My Account link 
+2020-05-28 18:12:22,729 INFO  [Log4JExample2] Username entered in the Username text box 
+2020-05-28 18:12:24,098 INFO  [Log4JExample2] Password entered in the Password text box 
+2020-05-28 18:12:29,496 INFO  [Log4JExample2] Click action performed on Submit button 
+2020-05-28 18:12:29,508 INFO  [Log4JExample2] Found round trip radio button 
+2020-05-28 18:12:35,014 INFO  [Log4JExample2] Browser closed 
+2020-07-04 14:31:23,820 INFO  [Log4JExample2] New driver instantiated 
+2020-07-04 14:31:25,003 INFO  [Log4JExample2] Implicit wait applied on the driver for 10 seconds 
+2020-07-04 14:31:28,907 INFO  [Log4JExample2] Web application launched 
+2020-07-04 14:31:30,361 INFO  [Log4JExample2] Click action performed on My Account link 
+2020-07-04 14:31:30,648 INFO  [Log4JExample2] Username entered in the Username text box 
+2020-07-04 14:31:31,819 INFO  [Log4JExample2] Password entered in the Password text box 
+2020-07-04 14:31:38,080 INFO  [Log4JExample2] Click action performed on Submit button 
+2020-07-04 14:31:39,443 INFO  [Log4JExample2] Found round trip radio button 
+2020-07-04 14:31:57,139 INFO  [Log4JExample2] Browser closed 

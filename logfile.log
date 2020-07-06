@@ -1,0 +1,9 @@
+2020-05-28 17:13:40,617 INFO  [Log4JExample] New driver instantiated 
+2020-05-28 17:13:41,108 INFO  [Log4JExample] Implicit wait applied on the driver for 10 seconds 
+2020-05-28 17:13:43,081 INFO  [Log4JExample] Web application launched 
+2020-05-28 17:13:43,747 INFO  [Log4JExample] Click action performed on My Account link 
+2020-05-28 17:13:43,900 INFO  [Log4JExample] Username entered in the Username text box 
+2020-05-28 17:13:43,989 INFO  [Log4JExample] Password entered in the Password text box 
+2020-05-28 17:13:49,292 INFO  [Log4JExample] Click action performed on Submit button 
+2020-05-28 17:13:49,440 INFO  [Log4JExample] Found round trip radio button 
+2020-05-28 17:13:55,803 INFO  [Log4JExample] Browser closed 
